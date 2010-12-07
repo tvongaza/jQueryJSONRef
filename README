@@ -1,0 +1,3 @@
+A wrapper of dojox.json.ref so it can be used with jQuery without loading dojo.
+
+See: http://www.dojotoolkit.org/reference-guide/dojox/json/ref.html#dojox-json-ref
